@@ -1,0 +1,7 @@
+C:\Users\Akthar\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe.config
+C:\Users\Akthar\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe
+C:\Users\Akthar\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.pdb
+C:\Users\Akthar\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csproj.AssemblyReference.cache
+C:\Users\Akthar\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\Akthar\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.exe
+C:\Users\Akthar\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.pdb
